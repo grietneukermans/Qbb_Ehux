@@ -1,5 +1,5 @@
 # Qbb_Ehux
-Backscattering efficiency factors for coccoliths and coccospheres of Emiliania huxleyi
+Backscattering efficiency factors for coccoliths and coccospheres of Emiliania huxleyi with morphology described by Zhai et al. (2013, OPtics Express DOI:10.1364/OE.21.017625)
 
 Qbb_lith.m: matlab function that computes the backscattering efficiency factor for an Ehux coccolith composed of material of given index of refraction (real or complex), r0 the radius of the coccolithophore core as in Fig. 2 [microns] of the corresponding paper, nspoke=number of spokes in the coccolith [dim], lambda=light wavelength in water [microns]. 
 
